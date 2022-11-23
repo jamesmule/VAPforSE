@@ -1,0 +1,6 @@
+Set ShowProcGalaxies true
+Set ShowProcClusters true
+Set ShowProcNebulae true
+Set ShowProcStars true
+Set ShowProcPlanets true
+Set ShowProcCSPlanets true

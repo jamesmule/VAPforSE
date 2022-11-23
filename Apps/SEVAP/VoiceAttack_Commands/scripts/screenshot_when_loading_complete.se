@@ -1,0 +1,8 @@
+SaveVars
+Set QualityPreset 3
+SetU LandLOD 2
+
+WaitTrigger "LoadingComplete" { MaxWaitTime 600 }
+Screenshot { Format "png" }
+
+RestoreVars

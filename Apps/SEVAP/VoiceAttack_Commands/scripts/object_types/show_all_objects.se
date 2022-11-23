@@ -1,0 +1,31 @@
+Set ShowCatGalaxies true
+Set ShowProcGalaxies true
+Set ShowCatClusters true
+Set ShowProcClusters true
+Set ShowCatNebulae true
+Set ShowProcNebulae true
+Set ShowCatStars true
+Set ShowProcStars true
+Set ShowCatPlanets true
+Set ShowProcPlanets true
+Set ShowProcCSPlanets true
+
+Set ShowSpacecraft true
+
+Show Planets
+Show Stars
+Show Clusters
+Show Nebulae
+Show Galaxies
+Show Atmospheres
+Show Clouds
+Show Water
+Show Aurora
+Show CometTails
+Show AccretionDisks
+Show Jets
+Show NightLights
+Show Eclipses
+Show PlanetShine
+Show LensFlares
+Show PseudoFlares

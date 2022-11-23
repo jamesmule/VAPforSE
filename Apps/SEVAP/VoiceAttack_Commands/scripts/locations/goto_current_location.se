@@ -1,0 +1,16 @@
+Select "Earth"
+SyncRot
+TimeScale 1
+Date "current"
+
+Goto
+{
+	Time 2
+	DistKm 12000.0	// stop point distance from the target in km; no default.
+	Lon 0	// stop point longitude in degrees; no default.
+	Lat 0	// stop point latitude in degrees; no default.
+	Yaw 0		// stop point yaw Euler angle in degrees; no default.
+	Pitch -90		// stop point Pitch angle in degrees; no default.
+	Roll 0		// stop point Roll angle in degrees; no default.
+	Center true	// do not rotate camera to the target; default is true (do rotation).
+}

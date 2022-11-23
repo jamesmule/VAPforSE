@@ -1,0 +1,11 @@
+if { VRControllerType == 1 }
+	SetWidgetStyle "Main menu|Main|Help Oculus" { Visible true  }
+elif { VRControllerType == 2 }
+	SetWidgetStyle "Main menu|Main|Help WMR"    { Visible true  }
+elif { VRControllerType == 3 }
+	SetWidgetStyle "Main menu|Main|Help Vive"   { Visible true  }
+elif { VRControllerType == 4 }
+	SetWidgetStyle "Main menu|Main|Help Cosmos" { Visible true  }
+elif { VRControllerType == 5 }
+	SetWidgetStyle "Main menu|Main|Help Index"  { Visible true  }
+endif

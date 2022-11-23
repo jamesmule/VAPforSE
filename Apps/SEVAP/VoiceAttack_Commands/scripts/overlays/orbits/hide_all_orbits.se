@@ -1,0 +1,9 @@
+Set ShowOrbitsAsteroids false
+Set ShowOrbitsBarycenters false
+Set ShowOrbitsComets false
+Set ShowOrbitsDwarfMoons false
+Set ShowOrbitsDwarfPlanets false
+Set ShowOrbitsMoons false
+Set ShowOrbitsPlanets false
+Set ShowOrbitsShips false
+Set ShowOrbitsSuns false

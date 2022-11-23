@@ -1,0 +1,14 @@
+Show Markers
+Set ShowMarkersAsteroids true
+Set ShowMarkersBarycenters true
+Set ShowMarkersClusters true
+Set ShowMarkersComets true
+Set ShowMarkersDwarfMoons true
+Set ShowMarkersDwarfPlanets true
+Set ShowMarkersGalaxies true
+Set ShowMarkersMoons true
+Set ShowMarkersNebulae true
+Set ShowMarkersPlanets true
+Set ShowMarkersShips true
+Set ShowMarkersStars true
+Set ShowMarkersSuns true

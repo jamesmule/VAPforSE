@@ -1,0 +1,12 @@
+Waypoint "◾ 0 0"
+{
+	Parent "Earth-Moon|Earth"
+	RadiusKm 0
+	FixedPosPolarKm (0 0 6370)
+	LabelColor (0.8 0.8 0.8, 4)
+	LabelFadeRangeKm (0, 1, 25000, 30000)
+}
+
+Show Labels
+Set ShowLabelsWaypoints true
+Select "◾ 0 0"
