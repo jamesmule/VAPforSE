@@ -12,7 +12,7 @@ This is probably especially useful in VR or if you're not quick with the keyboar
 ## Examples
 A few examples of what you can now say:
 
-- `select \<object\>`
+- `select <object>`
 - `go to object`
 - `go to current location`
 - `set time to now`
