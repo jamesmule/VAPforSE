@@ -1,5 +1,0 @@
-Set TextMode 2
-ShowDialog "Main toolbar"
-ShowDialog "Filters toolbar"
-ShowDialog "Camera toolbar"
-ShowDialog "Navigation toolbar"
