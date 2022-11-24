@@ -27,7 +27,8 @@ A few examples of what you can now say:
 - `show/hide clouds`  
 ... and lots more
 
-You can also say `show commands` or `show command reference` to display a complete command reference after having imported the profile.
+A complete up-to-date reference is available [url=https://jamesmule.github.io/VAPforSE/]here[/url].
+You can also say '[b]show commands[/b]' or '[b]show command reference[/b]' after having imported the profile.
 
 ---
 ## Installing the profile
