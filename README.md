@@ -6,7 +6,7 @@
 ## Intro
 This repository contains an English VoiceAttack profile with about **50 commands (well over 1000 combinations)** for controlling SpaceEngine using your voice.
 
-This is probably especially useful in VR or if you're not quick with the keyboard, I've found it to be very convenient when exploring on a screen, too. Another idea would be to let other people in the room control SpaceEngine to go to objects or toggle overlays.
+This is probably especially useful in VR or if you're not quick with the keyboard or mouse, and I've found it to be very convenient when exploring on a screen, too. Another idea would be to let other people in the room control SpaceEngine to go to objects or toggle overlays.
 
 ---
 ## Examples
@@ -52,7 +52,7 @@ You can also say `show commands` or `show command reference` after having import
 
 ---
 ## About VoiceAttack
-Using VoiceAttack, you can define your own voice commands or macros that can execute all kinds of actions, from launching your programs in Windows to deploying your weapons in Elite:Dangerous.
+Using VoiceAttack, you can define your own voice commands or keyboard shortcuts that can execute all kinds of actions, from launching your programs in Windows to deploying your weapons in Elite:Dangerous.
 
 If you don't have VoiceAttack but are interested, it is available for $10 on [their website](https://voiceattack.com/) and for $12 [on Steam](https://store.steampowered.com/app/583010/VoiceAttack/) (unless there's a 25% sale).
 
