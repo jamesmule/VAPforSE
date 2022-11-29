@@ -5,7 +5,7 @@ IF "%~1"=="" (
 )
 
 echo Copying .vax profile...
-copy "%~1" "%~dp0\..\Import\%~nx1" >nul
+move /Y "%~1" "%~dp0\..\Import" >nul
 
 echo Restarting VoiceAttack...
 :wait
