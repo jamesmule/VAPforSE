@@ -3,11 +3,11 @@
 **Use this VoiceAttack profile to control SpaceEngine with your voice.**  
 **[VoiceAttack](https://voiceattack.com/) for $10 is required, but try the trial first to check for compatibility issues.**
 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/jamesmule/VAPforSE/v1.7.4/total?color=%23264360&label=Downloads%20v1.7.4&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/jamesmule/VAPforSE/v1.7.5/total?color=%23264360&label=Downloads%20v1.7.5&style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/jamesmule/VAPforSE/total?color=%23264360&label=Total%20Downloads&style=flat-square)  
 ![Steam Subscribers](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2822277908&color=%23264360&style=flat-square&label=Workshop%20Subscribers)
 
-**[Download the profile here.](https://github.com/jamesmule/VAPforSE/releases/latest/download/SpaceEngine.VoiceAttack.Profile.1.7.4.vax)**
+**[Download the profile here.](https://github.com/jamesmule/VAPforSE/releases/latest/download/SpaceEngine.VoiceAttack.Profile.1.7.5.vax)**
 
 ---
 ## Intro
