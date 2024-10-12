@@ -41,23 +41,24 @@ You can also say `show commands` or `show command reference` after having import
 ## Installing the profile
 
 1. Purchase, download, install and start [VoiceAttack](https://voiceattack.com/).
-2. 
-3. Download the latest .vax file under [releases](https://github.com/jamesmule/VAPforSE/releases).
+
+2. Download the latest .vax file under [releases](https://github.com/jamesmule/VAPforSE/releases).
+
+3. Copy the .vax file into VoiceAttack's import folder at `C:\Program Files (x86)\VoiceAttack\Apps\Import` or `C:\Program Files\VoiceAttack\Apps\Import` and launch VoiceAttack.
 4. 
-5. Copy the .vax file into VoiceAttack's import folder at `C:\Program Files (x86)\VoiceAttack\Apps\Import` or `C:\Program Files\VoiceAttack\Apps\Import` and launch VoiceAttack.
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30132577/203790062-2061c19c-e164-441c-a798-9239ba629750.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/30132577/203789844-0fe624f0-cda4-4bfd-91cf-c5941af3cd96.png">
   <img alt="Shows a screenshot of the VoiceAttack import menu." src="https://user-images.githubusercontent.com/30132577/203789844-0fe624f0-cda4-4bfd-91cf-c5941af3cd96.png">
 </picture>-->
-1. If you haven't done so already, you will most likely have to train your Windows Speech Recognition engine, so VoiceAttack can understand your accent and pronunciation better. This will take maybe 15 minutes and will require you to speak sentences into your microphone that Windows shows on the screen.
+4. If you haven't done so already, you will most likely have to train your Windows Speech Recognition engine, so VoiceAttack can understand your accent and pronunciation better. This will take maybe 15 minutes and will require you to speak sentences into your microphone that Windows shows on the screen.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30132577/203791777-90a970fb-b814-4ff3-aca7-d565425f9122.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/30132577/203791780-7a154ff0-7b8e-45f7-813d-957843a7b7cb.png">
   <img alt="Shows a screenshot of the VoiceAttack import menu." src="hhttps://user-images.githubusercontent.com/30132577/203791780-7a154ff0-7b8e-45f7-813d-957843a7b7cb.png">
 </picture>
 
-1. Voilà, there you go. You can now say `Start SpaceEngine` and SE should launch.
+5. Voilà, there you go. You can now say `Start SpaceEngine` and SE should launch.
 
 ---
 ## About VoiceAttack
