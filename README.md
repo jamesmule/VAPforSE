@@ -3,11 +3,11 @@
 **Use this VoiceAttack profile to control SpaceEngine with your voice.**  
 **[VoiceAttack](https://voiceattack.com/) for $10 is required, but try the trial first to check for compatibility issues.**
 
-![GitHub release (by tag)](https://img.shields.io/github/downloads/jamesmule/VAPforSE/v1.7.5/total?color=%23264360&label=Downloads%20v1.7.5&style=flat-square)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/jamesmule/VAPforSE/v1.8/total?color=%23264360&label=Downloads%20v1.8&style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/jamesmule/VAPforSE/total?color=%23264360&label=Total%20Downloads&style=flat-square)  
 ![Steam Subscribers](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2822277908&color=%23264360&style=flat-square&label=Workshop%20Subscribers)
 
-**[Download the profile here.](https://github.com/jamesmule/VAPforSE/releases/latest/download/SpaceEngine.VoiceAttack.Profile.1.7.5.vax)**
+**[Download the profile here.](https://github.com/jamesmule/VAPforSE/releases/latest/download/SpaceEngine.VoiceAttack.Profile.1.8.vax)**
 
 ---
 ## Intro
@@ -24,8 +24,8 @@ A few examples of what you can now say:
 - `go to current location`
 - `set time to now`
 - `set time speed`
-- `set date <date>`
-- `set velocity`
+- `set date <wait> <date>`
+- `set velocity <wait>`
 - `set star magnitude to <integer>`
 - `show/hide star names`
 - `show/hide constellations`
@@ -41,21 +41,23 @@ You can also say `show commands` or `show command reference` after having import
 ## Installing the profile
 
 1. Purchase, download, install and start [VoiceAttack](https://voiceattack.com/).
-2. Download the latest .vax file under [releases](https://github.com/jamesmule/VAPforSE/releases).
-3. Copy the .vax file into VoiceAttack's import folder at `C:\Program Files (x86)\VoiceAttack\Apps\Import` or `C:\Program Files\VoiceAttack\Apps\Import` and launch VoiceAttack.
+2. 
+3. Download the latest .vax file under [releases](https://github.com/jamesmule/VAPforSE/releases).
+4. 
+5. Copy the .vax file into VoiceAttack's import folder at `C:\Program Files (x86)\VoiceAttack\Apps\Import` or `C:\Program Files\VoiceAttack\Apps\Import` and launch VoiceAttack.
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30132577/203790062-2061c19c-e164-441c-a798-9239ba629750.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/30132577/203789844-0fe624f0-cda4-4bfd-91cf-c5941af3cd96.png">
   <img alt="Shows a screenshot of the VoiceAttack import menu." src="https://user-images.githubusercontent.com/30132577/203789844-0fe624f0-cda4-4bfd-91cf-c5941af3cd96.png">
 </picture>-->
-4. If you haven't done so already, you will most likely have to train your Windows Speech Recognition engine, so VoiceAttack can understand your accent and pronunciation better. This will take maybe 15 minutes and will require you to speak sentences into your microphone that Windows shows on the screen.
+1. If you haven't done so already, you will most likely have to train your Windows Speech Recognition engine, so VoiceAttack can understand your accent and pronunciation better. This will take maybe 15 minutes and will require you to speak sentences into your microphone that Windows shows on the screen.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30132577/203791777-90a970fb-b814-4ff3-aca7-d565425f9122.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/30132577/203791780-7a154ff0-7b8e-45f7-813d-957843a7b7cb.png">
   <img alt="Shows a screenshot of the VoiceAttack import menu." src="hhttps://user-images.githubusercontent.com/30132577/203791780-7a154ff0-7b8e-45f7-813d-957843a7b7cb.png">
 </picture>
 
-5. Voilà, there you go. You can now say `Start SpaceEngine` and SE should launch.
+1. Voilà, there you go. You can now say `Start SpaceEngine` and SE should launch.
 
 ---
 ## About VoiceAttack
