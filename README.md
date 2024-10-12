@@ -45,7 +45,7 @@ You can also say `show commands` or `show command reference` after having import
 2. Download the latest .vax file under [releases](https://github.com/jamesmule/VAPforSE/releases).
 
 3. Copy the .vax file into VoiceAttack's import folder at `C:\Program Files (x86)\VoiceAttack\Apps\Import` or `C:\Program Files\VoiceAttack\Apps\Import` and launch VoiceAttack.
-4. 
+
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/30132577/203790062-2061c19c-e164-441c-a798-9239ba629750.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/30132577/203789844-0fe624f0-cda4-4bfd-91cf-c5941af3cd96.png">
